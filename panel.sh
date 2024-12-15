@@ -1,5 +1,4 @@
 #!/bin/bash
-apt install wget -y
 clear
 
 echo "🅰🅻🅼🅾🆂🆃 🅲🅻🅾🆄🅳"
@@ -15,3 +14,5 @@ if [[ ! $REPLY =~ ^[Yy]$ ]]; then
 fi
 
 clear
+
+apt install wget sudo nano git curl -y
