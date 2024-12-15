@@ -1,4 +1,4 @@
-# pufferpanel
+# Pufferpanel
 
 Install Pufferpanel:
 ```
